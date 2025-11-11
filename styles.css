@@ -70,7 +70,7 @@ body {
   margin-bottom: 1.2rem;
   text-align: left;
   line-height: 1.6;
-  color: #fbe2e2;
+  color: #e2fafb;
 }
 
 .yoho p {
@@ -1683,7 +1683,6 @@ body {
   .pixel-grid8 {
     grid-template-columns: repeat(auto-fill, 22px);
     grid-template-rows: repeat(auto-fill, 22px);
-    top: 90%;
   }
 
   .pixel-cell8 {
@@ -1795,5 +1794,6 @@ body {
 .biggertext {
   font-size: 1.2rem !important;
   line-height: 1.6 !important;
-  color: #fbe2e2 !important;
+  color: #e2fafb !important;
 }
+
