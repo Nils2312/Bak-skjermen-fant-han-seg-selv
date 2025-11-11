@@ -1620,7 +1620,7 @@ body {
 .image-container8 {
   position: relative;
   width: 100%;
-  overflow: visible;
+  overflow: hidden;
   min-height: 100vh;
 }
 
@@ -1796,4 +1796,5 @@ body {
   line-height: 1.6 !important;
   color: #e2fafb !important;
 }
+
 
